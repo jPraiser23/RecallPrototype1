@@ -1,0 +1,10 @@
+C:\Users\johnp\source\repos\RecallHome\RecallPrototype\bin\Debug\RecallPrototype.exe.config
+C:\Users\johnp\source\repos\RecallHome\RecallPrototype\bin\Debug\RecallPrototype.exe
+C:\Users\johnp\source\repos\RecallHome\RecallPrototype\bin\Debug\RecallPrototype.pdb
+C:\Users\johnp\source\repos\RecallHome\RecallPrototype\obj\Debug\RecallPrototype.csproj.AssemblyReference.cache
+C:\Users\johnp\source\repos\RecallHome\RecallPrototype\obj\Debug\RecallPrototype.Properties.Resources.resources
+C:\Users\johnp\source\repos\RecallHome\RecallPrototype\obj\Debug\RecallPrototype.csproj.GenerateResource.cache
+C:\Users\johnp\source\repos\RecallHome\RecallPrototype\obj\Debug\RecallPrototype.csproj.CoreCompileInputs.cache
+C:\Users\johnp\source\repos\RecallHome\RecallPrototype\obj\Debug\RecallPrototype.exe
+C:\Users\johnp\source\repos\RecallHome\RecallPrototype\obj\Debug\RecallPrototype.pdb
+C:\Users\johnp\source\repos\RecallHome\RecallPrototype\obj\Debug\RecallPrototype.Form1.resources
